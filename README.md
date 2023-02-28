@@ -133,7 +133,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - To create a Help Topic go to Admin Panel -> Mange -> Help Topic -> Add New Help Topic
 
-- And those are all of the basic feature to get ur ticketing system up and running. 
+- And those are all of the basic feature to get your ticketing system up and running. 
 
 </p>
 <br />
